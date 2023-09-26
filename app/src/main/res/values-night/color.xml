@@ -8,6 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="just_code">#C443DA</color>
-    <color name="main_bg">#CDDC39</color>
+    <color name="just_code">#673AB7</color>
 </resources>
